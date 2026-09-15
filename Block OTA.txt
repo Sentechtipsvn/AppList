@@ -1,0 +1,5 @@
+||mesu.apple.com^
+||gdmf.apple.com^
+||appldnld.apple.com^
+||updates.cdn-apple.com^
+||oscdn.apple.com^
